@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @suhastgit
+- 👋 Hi, I’m Suhas Talekar @suhastgit
 - 👀 I’m interested in most programing languages - currently dwelling in the land of Web Engineering & Web Development (Both Front end and back end :) )
-- 🌱 I’m currently also exploring "Go" https://go.dev
+- 🌱 I’m currently also exploring "Go" https://go.dev & "Rust" https://www.rust-lang.org
 - 💞️ I also sometimes blog about technical stuff at https://itbusinesshub.com
 
 
