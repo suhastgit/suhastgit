@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Suhas Talekar @suhastgit
-- 👀 I’m interested in most programing languages - currently dwelling in the land of Web Engineering & Web Development (Both Front end and back end :) )
-- 🌱 I’m currently also exploring "Go" https://go.dev & "Rust" https://www.rust-lang.org
-- 💞️ I also sometimes blog about technical stuff at https://itbusinesshub.com
-
+- 👋 Hi, I’m Suhas Talekar — @suhastgit
+- 👀 I’m currently exploring the world of Web Engineering & Development, working across both front-end and back-end domains.
+- 🌱 I’m currently building projects using Angular, React, Qwik, and TypeScript. In the past, I’ve worked with PHP, Node.js, Swift, Go, and Rust.
+- 💬 However, I believe that “A true developer isn’t defined by the language they code in, but by the problems they solve.”
+- 💞️ I occasionally write about technical topics on my blog — itbusinesshub.com.
 
 <!---
 suhastgit/suhastgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
